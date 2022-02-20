@@ -22,8 +22,7 @@ Fork of [Kodi Service for Philips Hue](https://github.com/zim514/script.service.
 
 ## Problems?
 
-- Make sure you update your Hue bridge to the latest version. This add-on assumes you have the latest
-- Turn on debug logging
+- Basicaly it works and maybe can be used for further rework to bring back some more comfort
 
 ## Credits:
 
